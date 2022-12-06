@@ -9,5 +9,5 @@ Please load debiasing analogies_analysis.ipynb and debiasing analogies_analysis_
 
 Then run debiasing analogies_analysis_gp_glove.ipynb to run Google Analogies test for GP-glove.
 
-Google Analogies test can take up to 48 hours. There is shorter version of this test in last cell
+Google Analogies test can take up to 48 hours. There is shorter version of this test in the last cell.
 
