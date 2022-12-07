@@ -1,4 +1,4 @@
-# kursovye_raboty_um
+# kursovye_raboty
 ## kursovye:
 
 1) debiasing_evaluation
